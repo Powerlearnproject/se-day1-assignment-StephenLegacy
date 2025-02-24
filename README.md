@@ -3,8 +3,7 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
-Here is your content with proper formatting while keeping the questions intact:  
+The questions are each separated from one another using a line.  
 
 ---
 
@@ -120,5 +119,3 @@ VCS are tools that help teams manage and track changes to source code over time.
 - **Acceptance Testing** – Confirms that the system meets business requirements and is ready for deployment.  
 
 ---
-
-This structured format keeps your content intact while improving readability. Let me know if you'd like any further refinements! 🚀
